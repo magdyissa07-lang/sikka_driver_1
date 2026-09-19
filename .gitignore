@@ -1,0 +1,11 @@
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+android/local.properties
+android/.gradle/
+android/app/.cxx/
+android/gradle/wrapper/gradle-wrapper.jar.sha256
+*.iml
+.idea/
